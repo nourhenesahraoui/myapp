@@ -40,7 +40,7 @@
       </manifest>
     </jar>
   </target>
-
+<!-- DEMO on Github!-->
   <target name="main" depends="compile, jar">
     <description>Main target</description>
   </target>
